@@ -13,11 +13,13 @@ There was 5 data science questions that I answered during this project:
 5. Do older games have better sales performance than newer releases?
 
 ## Project Files
-You can find 7 different project files in this GitHub Repository:
+You can find 9 different project files in this GitHub Repository:
 1. **James McGinty - Final Project Summary.docx** is a 1-page summary describing tools used, key findings, recommendations, and future work on this project.
 2. **James McGinty - Final Project.ipynb** is a Jupyter Notebook that performs data analysis to answer the five data science questions using visualization.
 3. **James McGinty - Final Project.pptx** is the presentation slides summarizing the project insights, visuals, and conclusions.
 4. **James McGinty - Milestone #2.ipynb** is a Jupyter Notebook that performs the initial exploratory analysis and dataset inspection using Pandas.
 5. **James McGinty - Milestone 3.ipynb** is a Juypter Notebook that perfroms the data cleaning process, including handling of missing values and formatting.
-6. **vgsales.csv** is the original dataset containing raw video game sales data scraped from VGChartz.
-7. **vgsales_cleaned.csv** is the cleaned version of the dataset used in the final analysis.
+6. **James McGinty - Milestone 4.ipynb** is a Juypter Notebook that perfroms data analysis to answer two of the data science questions using aggregate functions.
+7. **Works Cited.docx** is a document that cites any outside souces used during this project.
+8. **vgsales.csv** is the original dataset containing raw video game sales data scraped from VGChartz.
+9. **vgsales_cleaned.csv** is the cleaned version of the dataset used in the final analysis.
